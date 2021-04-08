@@ -31,6 +31,8 @@ Nothing fancy, go to game's directory and get the `data.win` file and all of its
 ## Step Two: Patching the files
 Now it's time to patch the files. Go back here to the repo and go to the Releases page. Pick the game you want to play on your Vita and save the `.zip` file (not the source code) to your Patch Folder.
 
+Then, get the `data.win`/`game.droid` file and rename it to `game.win`. 
+
 Extract the `.zip` file and delete the `.zip` file afterwards.
 Now, go to the DeltaPatcher folder and execute `DeltaPatcher.exe`
 
