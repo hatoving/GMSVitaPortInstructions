@@ -45,7 +45,7 @@ Go to the game's directory page on your Vita in ux0:app/GAMEID/games.
 
 ##### Note, you can find the port's game ID by looking at the INFO.txt file.
 
-Now, grab the patched the file and put it in the game direcory through FTP or USB.
+Now, grab the patched file and put it in the game direcory through FTP or USB.
 
 ## Step Four: There is no Step Four.
 Congrats! Now, you can launch the game and play it! Have fun!
