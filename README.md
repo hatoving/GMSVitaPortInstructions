@@ -9,7 +9,7 @@ Follow this guide then.
 In order for the game to work properly, you'll need the game files.
 
 ### Android ports
-Go ahead, pay and download the game you want to play on your Vita (example: Fran Bow) in from of a .APK file.
+Go ahead, pay and download the game you want to play on your Vita (example: Fran Bow) in form of a .APK file.
 Next, extract said APK file.
 
 #### Normal APK
