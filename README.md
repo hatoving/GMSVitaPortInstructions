@@ -19,7 +19,7 @@ Put them in a safe folder where you can come back to (I'll reference it as Patch
 
 #### OBB File
 If the game does have a `.obb` with it, you won't find the `game.droid` file in the APK.
-Instead, it will be located in the `.obb` file. Find said `.obb` File go to it's assets folder.
+Instead, it will be located in the `.obb` file. Find said `.obb` file and go to it's assets folder.
 Get the file called `game.droid` file and all of its assets in the assets folder with it.
 Put them in a Patch Folder.
 
