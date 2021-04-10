@@ -1,9 +1,13 @@
 # Game Maker Studio PS Vita Port Instructions
 That is the longest name I've ever heard.
 
-
 Hi! You must be here to play the games I ported on your Vita.
 Follow this guide then.
+
+NOTE: If you want to request a game, please contact me!
+      Twitter: @hatoving
+      
+Credits to m1s3ry and Grossleymoo!
 
 ## Step One: Getting the files
 In order for the game you want to play to work properly, you'll need the game files.
