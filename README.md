@@ -15,7 +15,7 @@ In order for the game you want to play to work properly, you'll need the game fi
 ### Android ports
 Go ahead, pay and download the game you want to play on your Vita (example: Fran Bow).
 
-#### `APK` without `OBB`
+#### Game without `OBB`
 If the game doesn't have a `.obb` file to make the game work on Android, then you can proceed.
 Go to your Storage -> Android -> game_id -> assets and copy-paste all files in it in a in a safe folder where you can come back to (I'll reference it as a Patch Folder).
 
@@ -23,7 +23,7 @@ Go to your Storage -> Android -> game_id -> assets and copy-paste all files in i
 
 ![image](https://user-images.githubusercontent.com/64536760/114278434-27192880-9a30-11eb-9f9e-7fdf8cc1311e.png)
 
-#### `APK` with `OBB`
+#### Game with `OBB`
 If the game does have a `.obb` file, you won't find anything in the assets folder.
 Instead, all assets will be located in the `.obb` file. 
 Find said `.obb` file in Storage -> Android -> obb -> game_id and extract it. Then, go its assets folder.
