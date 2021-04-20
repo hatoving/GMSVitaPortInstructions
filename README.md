@@ -17,17 +17,17 @@ Go ahead, pay and download the game you want to play on your Vita (example: Fran
 #### Game without `OBB`
 If the game doesn't have a `.obb` file to make the game work on Android, then you can proceed.
 
-Go to your Storage -> Android -> game_id -> assets and copy-paste all files in it in a in a safe folder where you can come back to (I'll reference it as a Patch Folder).
+Go to `Your Phone Storage/Android/com.gamename.company/assets` and copy-paste all files in it in a in a safe folder where you can come back to (I'll reference it as a Patch Folder).
 
-##### Note, the "game_id" is the "App ID" of your game. You can find this in the app's Play Store URL after 'id'.
+##### Note, the `com.gamename.company` is the "App ID" of your game. You can find that in the app's Play Store URL after 'id'.
 
 ![image](https://user-images.githubusercontent.com/64536760/114278434-27192880-9a30-11eb-9f9e-7fdf8cc1311e.png)
 
 #### Game with `OBB`
 If the game does have a `.obb` file, you won't find anything in the assets folder.
 Instead, all assets will be located in the `.obb` file. 
-Find said `.obb` file in Storage -> Android -> obb -> game_id and extract it. Then, go its assets folder.
-Copy-Paste all files from the obb file and put them in a Patch Folder.
+Find said `.obb` file in `Your Phone Storage/Android/obb/com.gamename.company` and extract it. Then, go its assets folder.
+Copy-Paste all files from the `.obb` file and put them in a Patch Folder.
 
 ### PC ports
 Nothing fancy, go to game's directory and copy and paste all of the game's assets.
@@ -42,7 +42,7 @@ Then, go back here to the repo and go to the Releases page. Pick the game you wa
 Extract the `.zip` file and delete the `.zip` file afterwards.
 Now, go to the DeltaPatcher folder and execute `DeltaPatcher.exe`.
 
-##### Note, DeltaPatcher is a patching tool for `.xdelta` files. Another note, if you're using Mac or Linux, try to launch it with Wine. The program is for Windows only sadly.
+##### Note, DeltaPatcher is a patching tool for `.xdelta` files. The program is for Windows only sadly, so if you're using Mac or Linux, try to launch it with Wine.
 
 After you opened the `.exe` file, you will see a GUI. Select the "Original file" as the `game.win` file you renamed and the "XDelta patch" as the `.xdelta` from the `.zip` file you extracted. Wait a few seconds and presto! The `game.win` file has been patched for your PS Vita.
 
