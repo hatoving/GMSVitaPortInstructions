@@ -3,8 +3,8 @@
 Hi! You must be here to play the games I ported on your Vita.
 Follow this guide then.
 
-NOTE: If you want to request a game, please contact me!
-      Twitter: @hatoving
+NOTE: If you want to request a game, please either make a issue and add the "request" label on it or contect me on Twitter.
+      @hatoving
       
 Credits to m1s3ry and Grossleymoo for making this possible!
 
