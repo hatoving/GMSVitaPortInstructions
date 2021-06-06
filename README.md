@@ -46,14 +46,15 @@ Now, go to the DeltaPatcher folder and execute `DeltaPatcher.exe`.
 
 After you opened the `.exe` file, you will see a GUI. Select the "Original file" as the `game.win` file you renamed and the "XDelta patch" as the `.xdelta` from the `.zip` file you extracted. Wait a few seconds and presto! The `game.win` file has been patched for your PS Vita.
 
-## Step Three: Replacing the files
+## Step Three: Installing the game and replacing the files
 It's time! Now it's only a matter of time to actually play the game.
 
-Go to the game's directory page on your Vita in ux0:app/GAMEID/games.
+First, install the VPK included in the Releases page or in the `.zip` file you downloaded for the game trough VitaShell.
+Go to the game's directory page on your Vita in `ux0:app/GAMEID/games`.
 
 ##### Note, you can find the port's game ID by looking at the `INFO.txt` file from .zip file you extracted.
 
-Now, grab the patched `game.win` and put it in the game direcory through FTP or USB.
+Now, grab the patched `game.win` and its contents from the Patch folder and put it in the game direcory through FTP or USB.
 
 ## Step Four: There is no Step Four.
 Congrats! Now, you can launch the game and play it! Have fun!
