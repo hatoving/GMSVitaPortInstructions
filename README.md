@@ -8,7 +8,7 @@ NOTE: If you want to request a game, please either make a issue and add the "req
       
 Credits to m1s3ry and Grossleymoo for making this possible!
 
-##### WARNING!!!: These instructions will be obsolete, kind of. From now on, I will make batch files that patch the files themselves rather than yourself, similar to how m1s3ry does it.
+###### WARNING!!!: These instructions will be obsolete, kind of. From now on, I will make batch files that patch the files themselves rather than yourself, similar to how m1s3ry does it.
 
 ## Step One: Getting the files
 In order for the game you want to play to work properly, you'll need the game files.
