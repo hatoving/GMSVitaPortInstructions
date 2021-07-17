@@ -1,4 +1,4 @@
-# GameMaker Studio 1/2 PS Vita Port Instructions
+# GameMaker Studio PS Vita Port Instructions
 
 Hi! You must be here to play the games I ported on your Vita.
 Follow this guide then.
@@ -8,7 +8,7 @@ NOTE: If you want to request a game, please either make a issue and add the "req
       
 Credits to m1s3ry and Grossleymoo for making this possible!
 
-# WARNING!!!
+WARNING!!!
 These instructions will be obsolete, kind of. From now on, I will make batch files that patch the files themselves rather than yourself, similar to how m1s3ry does it.
 
 ## Step One: Getting the files
@@ -52,7 +52,10 @@ Now, go to the DeltaPatcher folder and execute `DeltaPatcher.exe`.
 After you opened the `.exe` file, you will see a GUI. Select the "Original file" as the `game.win` file you renamed and the "XDelta patch" as the `.xdelta` from the `.zip` file you extracted. Wait a few seconds and presto! The `game.win` file has been patched for your PS Vita.
 
 ### Newer patches
-In future patches after "LOVE", there will be a batch file from the `.zip` fikel which will patch every single file you need and then put them in a folder where the batch file is located.
+Unzip the `.zip` you downloaded from the Releases page in the Patch Folder.
+Copy the game assets including the `game.win` file in the `PatchedFiles/games` folder.
+
+Execute the batch file from the `.zip`and let it do its job.
 
 ## Step Three: Installing the game and replacing the files
 It's time! Now it's only a matter of time to actually play the game.
@@ -65,7 +68,7 @@ Go to the game's directory page on your Vita in `ux0:app/GAMEID`.
 ### Older patches
 Now, grab the patched `game.win` and its contents from the Patch folder and put it in `ux0:app/GAMEID/games` through FTP or USB.
 ### Newer patches
-Just copy everything from the folder the batch file created and paste it into `ux0:app/GAMEID/games`.
+Just copy everything from the folder in the .zip file (`.zip file/PatchedFiles/ganes`) and paste it into `ux0:app/GAMEID/games`.
 
 ## Step Four: There is no Step Four.
 Congrats! Now, you can launch the game and play it! Have fun!
