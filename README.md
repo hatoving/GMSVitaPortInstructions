@@ -1,3 +1,6 @@
+# Please don't use this guide anymore.
+# Consider using YoYoLoader to play any GameMaker games.
+
 # GameMaker Studio PS Vita Port Instructions
 
 Hi! You must be here to play the games I ported on your Vita.
